@@ -99,6 +99,7 @@ body {
   color: #28313A;
   font-size: 16px;
   line-height: 22px;
+  overflow-x: hidden;
 }
 
 body._lock {
