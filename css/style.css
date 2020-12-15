@@ -1381,7 +1381,7 @@ h4 {
 }
 
 ._no-webp .sure__info-list .info-list__item:before{
-  background: url("/img/icons/list-icon.png") center no-repeat; }
+  background: url("img/icons/list-icon.png") center no-repeat; }
 
 .sure__info-list .info-list__item:before {
   content: "";
@@ -2855,7 +2855,7 @@ h4 {
 
 ._webp .ques::after{ background: url(/img/icons/ques.webp) no-repeat; }
 
-._webp .sure__info-list .info-list__item:before{ background: url(/img/icons/list-icon.webp) center no-repeat; }
+._webp .sure__info-list .info-list__item:before{ background: url(img/icons/list-icon.webp) center no-repeat; }
 
 ._webp .complect-block .choose::before{ background-image: url(/img/numbers/1.webp); }
 
