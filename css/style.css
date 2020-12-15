@@ -1208,7 +1208,7 @@ h4 {
 }
 
 ._no-webp .ques::after{
-  background: url("/img/icons/ques.png") no-repeat; }
+  background: url("../img/icons/ques.png") no-repeat; }
 
 .ques::after {
   content: '';
@@ -1381,7 +1381,7 @@ h4 {
 }
 
 ._no-webp .sure__info-list .info-list__item:before{
-  background: url("/img/icons/list-icon.png") center no-repeat; }
+  background: url("../img/icons/list-icon.png") center no-repeat; }
 
 .sure__info-list .info-list__item:before {
   content: "";
@@ -1669,7 +1669,7 @@ h4 {
 }
 
 ._no-webp .complect-block .choose::before{
-  background-image: url("/img/numbers/1.png"); }
+  background-image: url("../img/numbers/1.png"); }
 
 .complect-block .choose::before {
   content: '';
@@ -1745,7 +1745,7 @@ h4 {
 }
 
 ._no-webp .complect-block .radio::before{
-  background-image: url("/img/numbers/2.png"); }
+  background-image: url("../img/numbers/2.png"); }
 
 .complect-block .radio::before {
   content: '';
@@ -1830,7 +1830,7 @@ h4 {
 }
 
 ._no-webp .complect-block .checkbox .equip .equip__item .item-wraper label input::after{
-  background: url("/img/icons/check.png") no-repeat; }
+  background: url("../img/icons/check.png") no-repeat; }
 
 .complect-block .checkbox .equip .equip__item .item-wraper label input::after {
   content: '';
@@ -1847,7 +1847,7 @@ h4 {
 }
 
 ._no-webp .complect-block .checkbox::before{
-  background-image: url("/img/numbers/3.png"); }
+  background-image: url("../img/numbers/3.png"); }
 
 .complect-block .checkbox::before {
   content: '';
@@ -2023,7 +2023,7 @@ h4 {
 }
 
 ._no-webp .smartphon-wraper .smartphon .smartphon__list-block .smartphon-list .smartphon-list__item:before{
-  background: url("/img/icons/list-icon.png") center no-repeat; }
+  background: url("../img/icons/list-icon.png") center no-repeat; }
 
 .smartphon-wraper .smartphon .smartphon__list-block .smartphon-list .smartphon-list__item:before {
   content: "";
@@ -2853,16 +2853,16 @@ h4 {
 
 ._webp .footer .footer__content .contacts .cantacts__list .contact__list__item:nth-of-type(3)::before{ background: url(/img/icons/pin.webp) no-repeat; }
 
-._webp .ques::after{ background: url(/img/icons/ques.webp) no-repeat; }
+._webp .ques::after{ background: url(../img/icons/ques.webp) no-repeat; }
 
-._webp .sure__info-list .info-list__item:before{ background: url(/img/icons/list-icon.webp) center no-repeat; }
+._webp .sure__info-list .info-list__item:before{ background: url(../img/icons/list-icon.webp) center no-repeat; }
 
-._webp .complect-block .choose::before{ background-image: url(/img/numbers/1.webp); }
+._webp .complect-block .choose::before{ background-image: url(../img/numbers/1.webp); }
 
-._webp .complect-block .radio::before{ background-image: url(/img/numbers/2.webp); }
+._webp .complect-block .radio::before{ background-image: url(../img/numbers/2.webp); }
 
-._webp .complect-block .checkbox .equip .equip__item .item-wraper label input::after{ background: url(/img/icons/check.webp) no-repeat; }
+._webp .complect-block .checkbox .equip .equip__item .item-wraper label input::after{ background: url(../img/icons/check.webp) no-repeat; }
 
-._webp .complect-block .checkbox::before{ background-image: url(/img/numbers/3.webp); }
+._webp .complect-block .checkbox::before{ background-image: url(../img/numbers/3.webp); }
 
-._webp .smartphon-wraper .smartphon .smartphon__list-block .smartphon-list .smartphon-list__item:before{ background: url(/img/icons/list-icon.webp) center no-repeat; }
+._webp .smartphon-wraper .smartphon .smartphon__list-block .smartphon-list .smartphon-list__item:before{ background: url(../img/icons/list-icon.webp) center no-repeat; }
