@@ -1306,20 +1306,6 @@ h4 {
   width: 204px;
 }
 
-.tel-form span {
-  position: relative;
-}
-
-.tel-form span::before {
-  content: '';
-  position: absolute;
-  width: 15px;
-  height: 3px;
-  top: 53px;
-  left: 29px;
-  background: #F7F8F8;
-}
-
 .signal-img-wraper {
   max-width: 540px;
   min-height: 100%;
